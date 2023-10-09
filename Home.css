@@ -262,17 +262,18 @@
     font-size: 2.25rem;
   }
 } .u-section-3 {
-  min-height: 688px;
+  margin-top: 0;
+  margin-bottom: 0;
+  min-height: 716px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.u-section-3 .u-layout-wrap-1 {
-  margin: 0 auto 0 0;
-}
-
 .u-section-3 .u-image-1 {
-  min-height: 688px;
+  min-height: 746px;
   background-image: url("https://images03.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/c9d78a0309cd5df0a2cae47f/pexelsphoto1029844.jpeg");
   background-position: 0% 72.03%;
 }
@@ -290,7 +291,7 @@
 }
 
 .u-section-3 .u-image-2 {
-  min-height: 716px;
+  min-height: 746px;
   background-image: url("https://images03.nicepagecdn.com/a1389d7bc73adea1e1c1fb7e/efc7c28fcc3c52e8bc1bc705/pexelsphoto1650627.jpeg");
   background-position: 50% 100%;
 }
@@ -311,16 +312,11 @@
 
 @media (max-width: 1199px) {
    .u-section-3 {
-    min-height: 567px;
-  }
-
-  .u-section-3 .u-layout-wrap-1 {
-    margin-right: initial;
-    margin-left: initial;
+    min-height: 697px;
   }
 
   .u-section-3 .u-image-1 {
-    min-height: 567px;
+    min-height: 745px;
   }
 
   .u-section-3 .u-text-1 {
@@ -329,7 +325,7 @@
   }
 
   .u-section-3 .u-image-2 {
-    min-height: 697px;
+    min-height: 745px;
   }
 
   .u-section-3 .u-text-2 {
@@ -387,7 +383,7 @@
   }
 
   .u-section-3 .u-image-2 {
-    min-height: 678px;
+    min-height: 707px;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -416,7 +412,7 @@
   }
 
   .u-section-3 .u-image-2 {
-    min-height: 427px;
+    min-height: 445px;
   }
 
   .u-section-3 .u-text-2 {
@@ -686,10 +682,12 @@
   margin: 199px 460px 0 0;
 }
 
-.u-section-6 .u-btn-1 {
-  background-image: none;
-  margin: 30px 460px 60px 0;
-  padding: 0;
+.u-section-6 .u-text-2 {
+  letter-spacing: 0px;
+  text-transform: none;
+  font-weight: 700;
+  font-size: 3rem;
+  margin: 29px 460px 60px 0;
 }
 
 @media (max-width: 1199px) {
@@ -701,7 +699,7 @@
     margin-right: 260px;
   }
 
-  .u-section-6 .u-btn-1 {
+  .u-section-6 .u-text-2 {
     margin-right: 260px;
   }
 }
@@ -719,7 +717,7 @@
     margin-right: 40px;
   }
 
-  .u-section-6 .u-btn-1 {
+  .u-section-6 .u-text-2 {
     margin-right: 40px;
   }
 }
@@ -733,7 +731,7 @@
     margin-right: 0;
   }
 
-  .u-section-6 .u-btn-1 {
+  .u-section-6 .u-text-2 {
     margin-right: 0;
   }
 }
@@ -746,5 +744,9 @@
 
   .u-section-6 .u-sheet-1 {
     min-height: 122px;
+  }
+
+  .u-section-6 .u-text-2 {
+    font-size: 1.875rem;
   }
 }
