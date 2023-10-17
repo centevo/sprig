@@ -1,28 +1,29 @@
-# Full Image Reveal Effect
+# Segment Effect
 
-A full image reveal effect with fancy thumbnail sliding.
+Background image segment effect as seen on [Filippo Bello's Portfolio](http://www.filippobello.com/portfolio).
 
-![Full Image Reveal Effect](https://tympanus.net/codrops/wp-content/uploads/2018/06/FullImageReveal_featured.jpg)
+[Article on Codrops](http://tympanus.net/codrops/?p=28039)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=35087)
+[Demo](http://tympanus.net/Development/SegmentEffect/)
 
-[Demo](http://tympanus.net/Development/FullImageReveal/)
+## License
+
+Integrate or build upon it for free in your personal or commercial projects. Don't republish, redistribute or sell "as-is". 
+
+Read more here: [License](http://tympanus.net/codrops/licensing/)
 
 ## Credits
 
-- Images from [Unsplash.com](https://unsplash.com/)
-- [TweenMax](https://greensock.com/tweenmax) by Greensock
-- [imagesLoaded](https://imagesloaded.desandro.com/) by Dave DeSandro
-
-## License
-This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
+*   Inspired by the effect seen on [Filippo Bello's Portfolio](http://www.filippobello.com/portfolio)
+*   Animations powered by [anime.js](http://anime-js.com/), the easy-to-use JavaScript animation library by Julian Garnier.
+*   We're using [imagesLoaded](http://imagesloaded.desandro.com/) by Dave DeSandro.
+*   The images used in the demos are from [Unsplash.com](https://unsplash.com/)
 
 ## Misc
 
-Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/codrops), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/), [Instagram](https://www.instagram.com/codropsss/)
+Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
 
-
-[© Codrops 2018](http://www.codrops.com)
+[© Codrops 2016](http://www.codrops.com)
 
 
 
